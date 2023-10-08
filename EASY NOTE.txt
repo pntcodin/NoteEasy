@@ -1,0 +1,66 @@
+REGISTER
+{
+  "name":"admin",
+  "email": "admin@gmail.com"
+  "password":"123456"
+}
+{
+  "name":"adminhi",
+  "email": "adminhi@gmail.com"
+  "password":"123456"
+}
+
+{
+  "name":"adminfini",
+  "email": "adminfini@gmail.com"
+  "password":"123456"
+}
+
+
+LOGIN
+{
+  "email": "adminfini@gmail.com",
+  "password":"123456"
+}
+
+{
+  "message": "User logged in successfully",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NTIxYTI3MDc3MDQ5ODgyMGZlMTI4OWYiLCJpYXQiOjE2OTY3MDYwNTEsImV4cCI6MTY5NjcwNjIzMX0.AxnXoDCEQ0vDvgD02OhxwVwAQ3_B4n7U_AU9k0wLa2M",
+  "status": 1
+}
+CREATE
+{
+  "title": "antitititfagel",
+  "description": "leseraflim"
+}
+{
+  "title": "poppet show",
+  "description": "welcome to the puppet show"
+}
+{
+  "title": "new dance",
+  "description": "I just learn a new dance"
+}
+{
+  "title": "shooting star,
+  "description": "to the x "
+}
+
+
+{
+  "title": "poppet show",
+  "description": "welcome to the puppet show"
+}
+
+
+CAT
+{
+  "categoryName": "Wonbin so handsome",
+  "NoteTitle": "I love JP",
+  "NoteDescription": "leseraflimpukkapik"
+
+}
+
+History
+
+
